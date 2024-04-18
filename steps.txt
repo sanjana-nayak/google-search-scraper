@@ -1,0 +1,6 @@
+pip install -U virtualenv
+python -m virtualenv venv
+. venv/Scripts/activate
+pip install requests
+pip install html5lib
+pip install bs4
